@@ -1,0 +1,57 @@
+a {
+    text-decoration: none;  
+}
+.logo {
+    width: 15px;
+}
+.logo-txt {
+    font-size: 20px;
+}
+.nav-left-box {
+    float: left;
+}
+.nav-right-box {
+    float: right;
+    margin: 0;
+}
+.nav {
+    overflow: auto;
+    padding: 20px 15px 5px;
+}
+.link {
+    display: inline-block;
+    margin-left: 20px;
+
+}
+.link:first-child {
+margin-left: 0px;
+}
+
+.seaction-txt {
+    
+    
+}
+.phones {
+    width: 300px;
+}
+input{
+    padding: 10px;
+    margin-right: -10px;
+
+}
+button{
+    padding: 10px;
+    background-color: #311F4D;
+    color:white;
+}
+.number {
+}
+.google {
+    width: 100px;
+}
+.right-header-box {
+    float: right;
+}
+.header {
+    padding: 100px;
+}

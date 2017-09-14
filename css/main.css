@@ -26,13 +26,8 @@ a {
 .link:first-child {
 margin-left: 0px;
 }
-
-.seaction-txt {
-    
-    
-}
 .phones {
-    width: 300px;
+    width: 270px;
 }
 input{
     padding: 10px;
@@ -45,14 +40,48 @@ button{
     color:white;
 }
 .number {
+    padding-top: 200px;
     
 }
 .google {
     width: 100px;
+    
 }
 .right-header-box {
     float: right;
+    padding-right: 200px;
 }
 .header {
     padding: 100px;
+}
+.aple {
+    width: 100px;
+    
+}
+.foto {
+    display: inline;
+    padding-left: 450px;
+    padding-top: 10px;
+}
+.section {
+    display:inline-block;
+   
+}
+.circle {
+    display: inline-block;
+}
+
+.red {
+    width: 70px;
+    padding-left: 100px;
+}
+.style {
+    padding-left: 100px;
+}
+.text {
+    padding-left: 100px;
+}
+.text-txt {
+    float: right;
+    padding-left: 50px;
 }

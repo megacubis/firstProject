@@ -21,7 +21,6 @@ a {
 .link {
     display: inline-block;
     margin-left: 20px;
-
 }
 .link:first-child {
 margin-left: 0px;
@@ -32,7 +31,6 @@ margin-left: 0px;
 input{
     padding: 10px;
     margin-right: -10px;
-
 }
 button{
     padding: 10px;
@@ -41,11 +39,9 @@ button{
 }
 .number {
     padding-top: 200px;
-    
 }
 .google {
     width: 100px;
-    
 }
 .right-header-box {
     float: right;
@@ -56,7 +52,6 @@ button{
 }
 .aple {
     width: 100px;
-    
 }
 .foto {
     display: inline;
@@ -65,12 +60,10 @@ button{
 }
 .section {
     display:inline-block;
-   
 }
 .circle {
     display: inline-block;
 }
-
 .red {
     width: 70px;
     padding-left: 100px;
@@ -84,4 +77,44 @@ button{
 .text-txt {
     float: right;
     padding-left: 50px;
+}
+.rect {
+    padding-left: 100px;
+    padding-top: 70px;
+    display: inline-block;
+}
+.blue {
+    width: 250px;
+    padding-right: 20px;
+}
+.rect1 {
+    float: left;
+}
+.rect2 {
+    padding-left: 350px;
+}
+.rect3 {
+    padding-left: 700px;
+    margin-top: -275px;
+}
+.unnamed {
+    width: 10px;
+}
+.unnamed-txt {
+    font-size: 15px;
+}
+.nav-left-box1 {
+    float: left;
+}
+.nav-right-box2 {
+    float: right;
+    margin-top: -20px;
+}
+.nav2 {
+    overflow: auto;
+    padding: 20px 15px 5px;
+}
+.link2 {
+    display: inline-block;
+    margin-left: 20px;
 }

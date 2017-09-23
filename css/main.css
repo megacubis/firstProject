@@ -1,3 +1,6 @@
+body {
+    width: 100%;
+}
 a {
     text-decoration: none;  
 }
@@ -45,7 +48,6 @@ button{
 }
 .right-header-box {
     float: right;
-    padding-right: 200px;
 }
 .header {
     padding: 100px;
@@ -78,24 +80,17 @@ button{
     float: right;
     padding-left: 50px;
 }
-.rect {
+.properties {
     padding-left: 100px;
     padding-top: 70px;
-    display: inline-block;
+    overflow: auto;
 }
 .blue {
     width: 250px;
     padding-right: 20px;
 }
-.rect1 {
+.property {
     float: left;
-}
-.rect2 {
-    padding-left: 350px;
-}
-.rect3 {
-    padding-left: 700px;
-    margin-top: -275px;
 }
 .unnamed {
     width: 10px;

@@ -70,9 +70,6 @@ button{
     width: 70px;
     padding-left: 100px;
 }
-.style {
-    padding-left: 100px;
-}
 .text {
     padding-left: 100px;
 }
@@ -81,13 +78,11 @@ button{
     padding-left: 50px;
 }
 .properties {
-    padding-left: 100px;
-    padding-top: 70px;
+    margin: 100px 50px 50px 80px;
     overflow: auto;
 }
 .blue {
     width: 250px;
-    padding-right: 20px;
 }
 .property {
     float: left;
@@ -106,7 +101,6 @@ button{
     margin-top: -20px;
 }
 .nav2 {
-    overflow: auto;
     padding: 20px 15px 5px;
 }
 .link2 {
